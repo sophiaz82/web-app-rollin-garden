@@ -1,2 +1,2 @@
 # web-app-rollin-garden
-Web app for my parents restaurant
+Web app for my parents restaurant.
